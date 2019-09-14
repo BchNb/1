@@ -1,2 +1,2 @@
 # 1
-ok
+#pkg install nano
